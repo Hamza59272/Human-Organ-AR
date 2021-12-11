@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216998730827",
+    "project_id": "secproject-9d48f",
+    "storage_bucket": "secproject-9d48f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216998730827:android:6b68930547e983e3de81ce",
+        "android_client_info": {
+          "package_name": "com.example.humanorganar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216998730827-ie9l8b78ifua8k00k3to3lm3hajbni77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3O6hDXJfDA4rhPFRGwC2AuEkCwC4ZBY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216998730827-ie9l8b78ifua8k00k3to3lm3hajbni77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
